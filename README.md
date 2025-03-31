@@ -5,11 +5,11 @@ https://ieeexplore.ieee.org/abstract/document/10132401
 
 ## Citations
 @ARTICLE{10132401,
-  author={Huang, Junhao and Xue, Bing and Sun, Yanan and Zhang, Mengjie and Yen, Gary G.},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  title={Split-Level Evolutionary Neural Architecture Search With Elite Weight Inheritance}, 
-  year={2024},
-  volume={35},
-  number={10},
-  pages={13523-13537},
+  author={Huang, Junhao and Xue, Bing and Sun, Yanan and Zhang, Mengjie and Yen, Gary G.},\
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, \
+  title={Split-Level Evolutionary Neural Architecture Search With Elite Weight Inheritance}, \
+  year={2024},\
+  volume={35},\
+  number={10},\
+  pages={13523-13537},\
   doi={10.1109/TNNLS.2023.3269816}}
